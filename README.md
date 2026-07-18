@@ -4,28 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Agents+%26+LLM+Enthusiast;Computer+Vision+with+YOLO;Deep+Learning+Explorer;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
----
-
-### 👩‍💻 whoami
-
-```python
-class BeyzaAta:
-    def __init__(self):
-        self.name = "Beyza Ata"
-        self.role = "Computer Engineering Student"
-        self.location = "Kastamonu, Türkiye"
-        self.focus = ["AI Agents", "LLMs", "Computer Vision", "Deep Learning"]
-        self.languages = ["Python", "TypeScript", "C++"]
-        self.currently_learning = "LLMs, Agentic Workflows & Model Deployment"
-        self.mindset = "Idea → Model → Real-World Application"
-
-    def say_hi(self):
-        print("Thanks for visiting — let's build something intelligent! 🚀")
-
-
-me = BeyzaAta()
-me.say_hi()
-```
+<p align="center">
+  <i>🚀 Turning ideas into intelligent systems — from idea, to model, to real-world application.</i>
+</p>
 
 ---
 
@@ -46,17 +27,6 @@ me.say_hi()
 <p align="center">
   🤖 <b>AI Agents & LLMs</b> &nbsp;·&nbsp; 🧠 <b>Deep Learning</b> &nbsp;·&nbsp; 👁️ <b>Computer Vision</b> &nbsp;·&nbsp; 📊 <b>Machine Learning</b>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🤖 **[esnaf-ai](https://github.com/ataabeeyzaa/esnaf-ai)** | Multi-agent AI operations assistant for SMEs & cooperatives (YZTA hackathon) |
-| 👁️ **[Rice-Disease-Detection-YOLO](https://github.com/ataabeeyzaa/Rice-Disease-Detection-YOLO)** | Detects rice plant diseases from images using YOLO |
-| 🏎️ **[F1-Race-Prediction-AI](https://github.com/ataabeeyzaa/F1-Race-Prediction-AI)** | Deep learning model predicting Formula 1 race outcomes |
-| 📅 **[weekly-life-planner-ai](https://github.com/ataabeeyzaa/weekly-life-planner-ai)** | AI-powered weekly life planner |
 
 ---
 
@@ -84,7 +54,7 @@ me.say_hi()
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**LLMs & Agents** 
+**LLMs & Agents** *(kullanmadığını sil)*
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -101,6 +71,26 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ataabeeyzaa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataabeeyzaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataabeeyzaa&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ataabeeyzaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ataabeeyzaa&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+
+---
 
 ### 🌐 Connect with Me
 
