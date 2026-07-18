@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Beyza ATA</h1>
-<h3 align="center">Computer Engineering Senior · AI / ML / Deep Learning Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ataabeeyzaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+/+ML+/+Deep+Learning+Enthusiast;Computer+Vision+%26+Deep+Learning+Explorer;Turning+data+into+intelligent+systems;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ataabeeyzaa&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/ataabeeyzaa?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+🎯 Final-year Computer Engineering student who turns ideas into <b>intelligent systems</b> —<br/>
+from training deep learning models to shipping them into real applications.
 </p>
 
 ---
@@ -10,13 +19,20 @@
 ### 🧠 About Me
 
 - 🎓 Final-year **Computer Engineering** student at **Kastamonu University**
-- 🤖 I build and study **Artificial Intelligence, Machine Learning & Deep Learning** systems
-- 🔭 Currently working on **deep learning projects in computer vision & image processing**
-- 🌱 Currently learning **PyTorch, model deployment & MLOps**
-- 💬 Ask me about **Python, Machine Learning, and building AI models**
-- 🤝 Open to **internships, research & open-source collaboration**
-- 📫 Reach me: **beyzata37@gmail.com**
-- ⚡ Fun fact: **I think the best way to learn AI is to build it — so I do 🚀**
+- 🤖 Focused on **Artificial Intelligence, Deep Learning & Computer Vision**
+- 🔭 Currently building **deep learning projects** — image classification, object detection & beyond
+- 🌱 Leveling up on **PyTorch, model deployment & MLOps**
+- 💡 I love taking a model from **idea → training → real-world deployment**
+- 🤝 Open to **internships, research collaborations & open-source**
+- 📫 Reach me anytime: **beyzata37@gmail.com**
+
+---
+
+### 🎯 Focus Areas
+
+<p align="center">
+  🧠 <b>Deep Learning</b> &nbsp;·&nbsp; 👁️ <b>Computer Vision</b> &nbsp;·&nbsp; 📊 <b>Machine Learning</b> &nbsp;·&nbsp; 🚀 <b>Model Deployment</b>
+</p>
 
 ---
 
@@ -28,7 +44,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / Machine Learning** 
+**AI / Machine Learning** *(kullanmadığını sil)*
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -51,10 +67,15 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ataabeeyzaa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataabeeyzaa&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataabeeyzaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataabeeyzaa&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ataabeeyzaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
 </p>
 
 ---
